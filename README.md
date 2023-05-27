@@ -1,5 +1,4 @@
-                                                                                                      WARNING!!!
-                                                                  
+![image](https://github.com/NotPr3st4n/CS-GO-Skin-Changer/assets/121404140/b9a69fb3-18c3-4612-b034-56c5561b4512)                                 
                                                                   
                                                                   
 You will need Visual Studio 2019-2022(I am sure also 2023).
