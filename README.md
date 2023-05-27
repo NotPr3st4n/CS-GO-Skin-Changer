@@ -5,6 +5,8 @@ You will need Visual Studio 2019-2022(I am sure also 2023).
 
 When you open the .sln file you will first need to put it to Release | 86x
 
+You will also need to build the solution when you end coding it.
+
 If you want the full tutorial check out cazz's video. He will explain the code but you can just have it from here. 
 
 Cazz's video: https://www.youtube.com/watch?v=4OV5RtbhUhk
